@@ -17,7 +17,7 @@ function castBKeyspell() {
     width: "100px",
     height: "10px",
     borderRadius: "50%",
-    background: "pink",
+    background: "green",
   };
 
   // 🎨 Add more custom styling here!
