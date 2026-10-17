@@ -48,14 +48,14 @@ Through Git commits, we’ll combine everyone’s keyspells into this repository
 In your terminal, type:
 
 ```bash
-git clone https://github.com/Open-Sourcery-UMD/technica-workshop-2025.git
+git clone https://github.com/Open-Sourcery-UMD/Technica-Workshop-2026.git
 ```
 
 ### 2. Open the folder for editing
 
-Open the `technica-workshop-2025` folder in your IDE or text editor of choice (e.g., VSCode).
+Open the `technica-workshop-2026` folder in your IDE or text editor of choice (e.g., VSCode).
 
-### 3. Open the `technica-workshop-2025/index.html` file on your laptop
+### 3. Open the `technica-workshop-2026/index.html` file on your laptop
 You’ll see Tornelius on the screen. Pressing your group's assigned key will cast your group’s keyspell.
 
 ### 4. Find your spell file
