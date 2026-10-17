@@ -14,10 +14,10 @@ function castBKeyspell() {
     position: "absolute",
     bottom: "150px",
     left: "50%",
-    width: "10px",
+    width: "100px",
     height: "10px",
     borderRadius: "50%",
-    background: "black",
+    background: "pink",
   };
 
   // 🎨 Add more custom styling here!
