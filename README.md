@@ -4,7 +4,7 @@
     <img src="tornelius.png" alt="Tornelius, The Open Sourcerer of Technica" width="200"/>
 </p>
 
-Welcome to **Tornelius, The Open Sourcerer of Technica**, the workshop activity for **Open Sourcery @ Technica UMD 2025**!  
+Welcome to **Tornelius, The Open Sourcerer of Technica**, the workshop activity for **Open Sourcery @ Technica UMD 2026**!  
 
 In this activity, you'll team up in small groups (2–4 people) to make an open-source contribution by adding a new *keyspell* to Tornelius, the Open Sourcerer of Technica.
 
