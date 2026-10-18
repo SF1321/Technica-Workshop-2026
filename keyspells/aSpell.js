@@ -15,7 +15,7 @@ function castAKeyspell() {
     bottom: "150px",
     left: "50%",
     width: "8px",
-    height: "800px",
+    height: "80px",
     background: "brown",
   };
 
