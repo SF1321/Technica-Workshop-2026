@@ -14,9 +14,9 @@ function castAKeyspell() {
     position: "absolute",
     bottom: "150px",
     left: "50%",
-    width: "80px",
-    height: "80px",
-    background: "pink",
+    width: "8px",
+    height: "800px",
+    background: "brown",
   };
 
   // 🎨 Add more custom styling here!
